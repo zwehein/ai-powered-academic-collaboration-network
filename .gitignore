@@ -1,0 +1,6 @@
+# Python environment and generated artifacts
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+artifacts/
